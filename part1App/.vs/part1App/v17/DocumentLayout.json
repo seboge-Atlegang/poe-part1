@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\booking\\detele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\booking\\detele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|c:\\users\\lab_services_student\\desktop\\part-1-poe-seboge-atlegang\\part1app\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4BDE489-29E2-4335-B434-615FA86F6D72}|part1App.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T11:18:47.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Controllers\\BookingController.cs*",
+              "RelativeToolTip": "Controllers\\BookingController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:56:14.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T10:58:00.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:29:43.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T09:18:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T09:16:34.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAACAZmZmZmYkwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T07:40:34.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAADYAAABgMzMzM3MiwEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:14:48.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "detele.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Booking\\detele.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\detele.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Booking\\detele.cshtml",
+              "RelativeToolTip": "Views\\Booking\\detele.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T20:15:14.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T09:58:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:13:05.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:35:04.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T08:11:23.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Venue\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Views\\Venue\\index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T07:32:30.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T07:25:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:08:21.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:07:46.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\part-1-poe-seboge-Atlegang\\part1App\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:07:02.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

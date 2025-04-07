@@ -1,0 +1,46 @@
+﻿@model IEnumerable<part1App.Models.Booking>
+
+@{
+    ViewData["Title"] = "Booking";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Event)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Venue.VenueId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Event.EventId)
+            </td>
+            <td>
+                
+               <a asp-action="Edit" asp-route-id="@item.BookingId">delete</a> |
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
